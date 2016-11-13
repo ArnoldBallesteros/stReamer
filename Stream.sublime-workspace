@@ -1,0 +1,889 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"my",
+				"myStreamListener\tstatement"
+			],
+			[
+				"Stream",
+				"StreamListener\tclass"
+			],
+			[
+				"C",
+				"CONSUMER_SECRET\tstatement"
+			],
+			[
+				"Tok",
+				"Token_Secret\tstatement"
+			],
+			[
+				"CO",
+				"Consumer_Secret\tstatement"
+			],
+			[
+				"hi",
+				"Highcharts"
+			],
+			[
+				"for",
+				"formatter"
+			],
+			[
+				"in",
+				"interestCount"
+			],
+			[
+				"inte",
+				"interestCount"
+			],
+			[
+				"un",
+				"unknownCount\tstatement"
+			],
+			[
+				"ca",
+				"catDoc\tstatement"
+			],
+			[
+				"dist",
+				"distuser"
+			],
+			[
+				"seri",
+				"seriesOptions"
+			],
+			[
+				"plot",
+				"plotTop"
+			],
+			[
+				"sports",
+				"sportsdistcount"
+			],
+			[
+				"dis",
+				"distSeries"
+			],
+			[
+				"no",
+				"nobiodistcount"
+			],
+			[
+				"n",
+				"nobiodist"
+			],
+			[
+				"inf",
+				"influCount"
+			],
+			[
+				"get",
+				"getBoth\tfunction"
+			],
+			[
+				"TRAN",
+				"transform"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"bar",
+				"barWidth"
+			],
+			[
+				"mouse",
+				"mousemove"
+			],
+			[
+				"y",
+				"yFisheye"
+			],
+			[
+				"fi",
+				"fisheye"
+			],
+			[
+				"mo",
+				"mousemove"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"page",
+				"pageX"
+			],
+			[
+				"chec",
+				"checker"
+			],
+			[
+				"int",
+				"interestCount"
+			],
+			[
+				"thi",
+				"this_perc"
+			],
+			[
+				"profess",
+				"professionPcts\tstatement"
+			],
+			[
+				"check",
+				"checkArray"
+			],
+			[
+				"g-c",
+				"g-category-group"
+			],
+			[
+				"g-",
+				"g-num2"
+			],
+			[
+				"selec",
+				"selectAll"
+			],
+			[
+				"prof",
+				"profDoc"
+			],
+			[
+				"pro",
+				"professionPcts"
+			],
+			[
+				"json",
+				"jsonStamp"
+			],
+			[
+				"rende",
+				"render_to_response\tfunction"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"w3",
+				"w3-include-html"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"js",
+				"json_projects\tstatement"
+			],
+			[
+				"data",
+				"dataArray"
+			],
+			[
+				"user",
+				"User_Info\tstatement"
+			],
+			[
+				"htt",
+				"HttpResponse\tclass"
+			],
+			[
+				"Htt",
+				"HttpResponse\tclass"
+			],
+			[
+				"bran",
+				"brand_name\tparam"
+			],
+			[
+				"fle",
+				"Filename_Hundred"
+			],
+			[
+				"Fil",
+				"Filename_Hundred"
+			],
+			[
+				"fil",
+				"Filename_Hundred\tstatement"
+			],
+			[
+				"id",
+				"idcounter\tstatement"
+			],
+			[
+				"twe",
+				"TweepError\tclass"
+			],
+			[
+				"followers",
+				"followers_count"
+			],
+			[
+				"loca",
+				"location\tstatement"
+			],
+			[
+				"sc",
+				"screen_name\tstatement"
+			],
+			[
+				"wai",
+				"wait_on_rate_limit\tparam"
+			],
+			[
+				"err",
+				"errorCode\tstatement"
+			],
+			[
+				"tw",
+				"TweepError\tclass"
+			],
+			[
+				"limit",
+				"limit_remaining\tstatement"
+			],
+			[
+				"ra",
+				"RateLimitError\tclass"
+			],
+			[
+				"e",
+				"error\tmodule"
+			],
+			[
+				"ke",
+				"key_cycle\tstatement"
+			],
+			[
+				"lim",
+				"limit_Remaining2\tstatement"
+			],
+			[
+				"limi",
+				"limit_Remaining\tstatement"
+			],
+			[
+				"follo",
+				"followerid\tforstmt"
+			],
+			[
+				"limit_",
+				"limit_Remaining2\tstatement"
+			],
+			[
+				"limit_R",
+				"limit_Remaining2\tstatement"
+			],
+			[
+				"Raw",
+				"RawJsonParser\tclass"
+			],
+			[
+				"wr",
+				"writerow"
+			],
+			[
+				"q",
+				"QUOTE_NONE\tinstance"
+			],
+			[
+				"Quo",
+				"QUOTE_NONE\tinstance"
+			],
+			[
+				"Sw",
+				"switchKeys\tstatement"
+			],
+			[
+				"Di",
+				"DictReader\tclass"
+			],
+			[
+				"csv",
+				"csvFile\twithstmt"
+			],
+			[
+				"File",
+				"FileName\tstatement"
+			],
+			[
+				"ro",
+				"rownames\tstatement"
+			],
+			[
+				"D",
+				"DictWriter\tclass"
+			],
+			[
+				"LIMI",
+				"limitRemaining"
+			],
+			[
+				"el",
+				"else\tkeyword"
+			],
+			[
+				"inpu",
+				"inputName\tstatement"
+			],
+			[
+				"foll",
+				"followercount"
+			],
+			[
+				"l",
+				"lookup_users\tfunction"
+			],
+			[
+				"use",
+				"user_ids\tparam"
+			],
+			[
+				"loo",
+				"lookup_users\tfunction"
+			],
+			[
+				"oau",
+				"OAUTH_TOKEN_SECRET\tstatement"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "import tweepy\nimport csv\nfrom tweepy import OAuthHandler\nfrom tweepy.streaming import StreamListener\nfrom tweepy import Stream\n\nCONSUMER_KEY = '9CmniCaIWNrMOs39KnYOdRvlo'\nCONSUMER_SECRET = 'AlowiR8XLqmpZqgSBj7SI0eRaEd3bixbt9ecGP925RYCy5yzhe'\nTOKEN = '1176891456-p1FquDzrgp3PJWdwzxZwHosHQtNlXwB3ngjCy1E'\nTOKEN_SECRET = 'rkERNpUqKHXcB87fQ5SvFeSGBiFvpOswP49e6ItBAS3fP'\n\nauth = OAuthHandler(CONSUMER_KEY,CONSUMER_SECRET)\nauth.set_access_token(TOKEN, TOKEN_SECRET)\napi = tweepy.API(auth)\n#print(api.rate_limit_status())\n\n\nclass MyStreamListener(StreamListener):\n\t\n\tdef on_status(self, status):\n\t\tprint(status.text)\n\n\tdef on_error(self, status_code):\n\t\tprint(status_code)\n\t\tif status_code == 420:\n\t\t\tprint(\"Disconnected\")\n\t\t\treturn False\n\ntermList = []\n\nwith open('term.csv') as f:\n\tterms = csv.reader(f, delimiter = ' ')\n\tfor row in terms:\n\t\tfor word in terms:\n\t\t\t\ttermList.extend(word)\n\t#\ttermList.replace(\",\",\"\")\nblockList = [x.replace(',', '') for x in termList]\nprint(blockList)\nblockString = ''.join(blockList)\n\n\t\t\nmyStreamListener = MyStreamListener()\nmystream = Stream(api.auth, myStreamListener)\n\nmystream.filter(track=[\"Macgregor\"], async = True)\n",
+			"file": "Stream.py",
+			"file_size": 1196,
+			"file_write_time": 131235255168911471,
+			"settings":
+			{
+				"buffer_size": 1151,
+				"line_ending": "Windows",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/C/Users/arnol/Downloads/popup.js",
+			"settings":
+			{
+				"buffer_size": 4489,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "packa",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"inden",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"sav",
+				"Toggle AutoSave: all files"
+			],
+			[
+				"au",
+				"Toggle AutoSave: all files"
+			],
+			[
+				"disabl",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"auto",
+				"Toggle AutoSave: all files"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"aut",
+				"Toggle AutoSave: all files"
+			],
+			[
+				"disable",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"autosa",
+				"Toggle AutoSave: all files"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"the",
+				"Themr: List themes"
+			],
+			[
+				"th",
+				"Themr: List themes"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"themr",
+				"Themr: List themes"
+			],
+			[
+				"them",
+				"Themr: List themes"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"align",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pip",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"len(array)",
+			"db",
+			"conn.mydb",
+			"set PYTHONENCODING=utf-8",
+			"chcp 65001",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/arnol/Documents/Streamer/Stream.sublime-workspace",
+		"/C/Users/arnol/Documents/data-bytes-2016-master/Back-end/get_ids.py",
+		"/C/Users/arnol/Documents/data-bytes-2016-master/Back-end/main.py",
+		"/C/Users/arnol/Documents/GitHub/data-bytes-2016/Back-end/main.py",
+		"/C/Users/arnol/Documents/GitHub/data-bytes-2016/Back-end/get_ids.py",
+		"/C/Users/arnol/Documents/GitHub/data-bytes-2016/Django-Test/Arnold/Ballesteros/static/js/dist.js",
+		"/C/Users/arnol/Documents/GitHub/data-bytes-2016/mightWork/threedb.py",
+		"/C/Users/arnol/Documents/GitHub/data-bytes-2016/Django-Test/Arnold/Ballesteros/static/js/colorbrewer.min.js",
+		"/C/Users/arnol/Documents/GitHub/data-bytes-2016/Django-Test/Arnold/Ballesteros/static/css/singleStack.css",
+		"/C/Users/arnol/Desktop/Django/Arnold/Ballesteros/static/js/professionChart.js",
+		"/C/Users/arnol/Desktop/Django/Arnold/Ballesteros/accessDB.py",
+		"/C/Users/arnol/Desktop/Django/Arnold/Ballesteros/templates/Ballesteros/Graph1.html",
+		"/C/Users/arnol/Desktop/Django/Arnold/server/urls.py",
+		"/C/Users/arnol/Desktop/Django/Arnold/Ballesteros/templates/Ballesteros/shapes.html",
+		"/C/Users/arnol/Desktop/Django/Arnold/server/apps.py",
+		"/C/Users/arnol/Desktop/Django/Arnold/server/templates/server/index.html",
+		"/C/Users/arnol/Desktop/Django/Arnold/server/tests.py",
+		"/C/Users/arnol/Desktop/Django/Arnold/Arnold/settings.py",
+		"/C/Users/arnol/Desktop/Django/Arnold/server/views.py",
+		"/C/Users/arnol/Desktop/Django/Arnold/Arnold/wsgi.py",
+		"/C/Users/arnol/Desktop/Django/Arnold/server/js/d3.js",
+		"/C/Users/arnol/Desktop/Django/Arnold/Ballesteros/templates/Ballesteros/index.html",
+		"/C/Users/arnol/Desktop/Django/Arnold/Ballesteros/templates/Ballesteros/Graph.html",
+		"/C/Users/arnol/Desktop/Django/Arnold/Ballesteros/static/css/agraph.css",
+		"/C/Users/arnol/Desktop/Django/Arnold/Ballesteros/urls.py",
+		"/C/Users/arnol/Desktop/Django/Arnold/Ballesteros/static/js/agraph.js",
+		"/C/Users/arnol/Desktop/Django/Arnold/Ballesteros/templates/Ballesteros/base2.html",
+		"/C/Users/arnol/Desktop/Django/Arnold/Ballesteros/__init__.py",
+		"/C/Users/arnol/Desktop/Django/Arnold/Ballesteros/forms.py",
+		"/C/Users/arnol/Desktop/Django/Arnold/Ballesteros/templates/Ballesteros/Sidebar.html",
+		"/C/Users/arnol/Desktop/Django/Arnold/Ballesteros/templates/Ballesteros/base.html",
+		"/C/Users/arnol/Desktop/Django/Arnold/Ballesteros/templates/Ballesteros/sbadmin.html",
+		"/C/Users/arnol/Desktop/Django/Arnold/Ballesteros/templates/Ballesteros/simpleSidebar.html",
+		"/C/Users/arnol/Desktop/Django/Arnold/Ballesteros/static/css/simple-sidebar.css",
+		"/C/Users/arnol/Desktop/Django/Arnold/Ballesteros/templates/Ballesteros/Gentallela.html",
+		"/C/Users/arnol/Desktop/Django/Arnold/Ballesteros/ajax.py",
+		"/C/Users/arnol/Desktop/Django/Arnold/Ballesteros/admin.py",
+		"/C/Users/arnol/Desktop/Django/Arnold/Ballesteros/templates/Ballesteros/map.html",
+		"/C/Users/arnol/Desktop/Django/myproject/project/tests.py",
+		"/C/Users/arnol/Desktop/Django/myproject/project/templates/project/base2.html",
+		"/C/Users/arnol/Desktop/Django/myproject/project/templates/project/base1.html",
+		"/C/Users/arnol/Desktop/Django/myproject/project/templates/project/base.html",
+		"/C/Users/arnol/Desktop/Django/myproject/project/templates/project/post_list.html",
+		"/C/Users/arnol/Desktop/Django/myproject/project/templates/project",
+		"/C/Users/arnol/Desktop/Django/myproject/project/views.py",
+		"/C/Users/arnol/Desktop/Django/myproject/project/urls.py",
+		"/C/Users/arnol/Desktop/Django/myproject/project/admin.py",
+		"/C/Users/arnol/Desktop/Django/myproject/project/models.py",
+		"/C/Users/arnol/Desktop/Django/myproject/project/apps.py",
+		"/C/Users/arnol/Desktop/Django/myproject/static/project/css/bootstrap-fluid-adj.css",
+		"/C/Users/arnol/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/arnol/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/arnol/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/arnol/Desktop/Django/first/testing/urls.py",
+		"/C/Users/arnol/Desktop/Django/first/testing/views.py",
+		"/C/Users/arnol/Desktop/Django/first/first/urls.py",
+		"/C/Users/arnol/Desktop/Django/mysite/mysite/urls.py",
+		"/C/Users/arnol/Desktop/Django/mysite/Sample/models.py",
+		"/C/Users/arnol/Desktop/Django/Django.sublime-project",
+		"/C/Users/arnol/Desktop/Django/mysite/mysite/wsgi.py",
+		"/C/Users/arnol/Desktop/Django/mysite/mysite/settings.py",
+		"/C/Users/arnol/Desktop/Django/mysite/mysite/__init__.py",
+		"/C/Users/arnol/Desktop/Django/mysite/manage.py",
+		"/C/Users/arnol/Documents/GitHub/data-bytes-2016/product/data_acquisition_mongodb/Django.py",
+		"/C/Users/arnol/Documents/GitHub/data-bytes-2016/ML/twitUser.py",
+		"/C/Users/arnol/Documents/GitHub/data-bytes-2016/ML/user_extraction.py",
+		"/C/Users/arnol/Documents/GitHub/data-bytes-2016/ML/treeModels.py",
+		"/C/Users/arnol/Documents/GitHub/data-bytes-2016/product/data_acquisition_mongodb/get_users.py",
+		"/C/Users/arnol/Documents/GitHub/data-bytes-2016/product/data_acquisition_mongodb/get_ids.py",
+		"/C/Users/arnol/Documents/GitHub/data-bytes-2016/product/data_acquisition_mongodb/main.py",
+		"/C/Users/arnol/Desktop/data-bytes-2016-master/product/data_acquisition_mongodb/get_ids.py",
+		"/C/Users/arnol/Desktop/data-bytes-2016-master/product/data_acquisition_mongodb/sort100.py",
+		"/C/Users/arnol/Desktop/data-bytes-2016-master/product/data_acquisition_mongodb/main.py",
+		"/C/Users/arnol/Desktop/data-bytes-2016-master/product/data_acquisition_mongodb/get_users.py",
+		"/C/Users/arnol/Desktop/Mindshare/1.py",
+		"/C/Users/arnol/Desktop/Dan's Twitter Scripts/twitter_stream_API.py",
+		"/C/Users/arnol/Desktop/Dan's Twitter Scripts/tweet_loader.py",
+		"/C/Users/arnol/Desktop/Mindshare/pyton.py"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"    \t    ",
+			"both",
+			"counter",
+			"total_time",
+			"g-chart",
+			"#chart",
+			"color",
+			"select",
+			"+",
+			"$",
+			";\n",
+			"categ",
+			"chart",
+			"body",
+			"g-num",
+			"9932CC",
+			"bar",
+			"data",
+			"chart",
+			"selectall",
+			"width",
+			"g-hed",
+			"g-intro",
+			"g-cha",
+			"sour",
+			"g-char",
+			"g-labels",
+			"g-num",
+			"g-so",
+			"g-intro",
+			"g-hed",
+			"Heyaaaaarnold",
+			"wrapper",
+			"dajax",
+			"d3",
+			"g-source",
+			"7",
+			"scale(xscale)",
+			"body",
+			"250",
+			"js",
+			"height",
+			"y0",
+			"morris",
+			"script",
+			".js",
+			"css",
+			"output_file",
+			"output",
+			"725763111089659905",
+			"scree",
+			"csv",
+			"b"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Stream.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1133,
+								1133
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai - Spacegray.tmTheme",
+							"force_encoding": "GBK",
+							"in_converting": true,
+							"origin_encoding": "GBK",
+							"revert_to_scratch": true,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 55.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/arnol/Downloads/popup.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4489,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1382,
+								1382
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai - Spacegray.tmTheme",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 312.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Stream.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
